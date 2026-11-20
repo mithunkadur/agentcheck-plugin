@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "agentcheck": {
+      "type": "http",
+      "url": "https://agentcheck.com/api/mcp"
+    }
+  }
+}
